@@ -1,0 +1,17 @@
+{
+  "cs": {
+    "versionName": "1.4.0",
+    "versionCode": 1401,
+    "firmwareUrl": "https://lutemi.github.io/ota-update/hentower/stable/1.4.0/firmware-cs-v1.4.0.bin"
+  },
+  "sk": {
+    "versionName": "1.4.0",
+    "versionCode": 1401,
+    "firmwareUrl": "https://lutemi.github.io/ota-update/hentower/stable/1.4.0/firmware-sk-v1.4.0.bin"
+  },
+  "en": {
+    "versionName": "1.4.0",
+    "versionCode": 1401,
+    "firmwareUrl": "https://lutemi.github.io/ota-update/hentower/stable/1.4.0/firmware-en-v1.4.0.bin"
+  }
+}

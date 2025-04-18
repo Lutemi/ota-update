@@ -1,0 +1,17 @@
+{
+  "cs": {
+    "versionName": "1.5.0-nightly-0d8fc86",
+    "versionCode": 1501,
+    "firmwareUrl": "https://lutemi.github.io/ota-update/hentower/nightly/1.5.0-nightly-0d8fc86/firmware-cs-v1.5.0-nightly-0d8fc86.bin"
+  },
+  "sk": {
+    "versionName": "1.5.0-nightly-0d8fc86",
+    "versionCode": 1501,
+    "firmwareUrl": "https://lutemi.github.io/ota-update/hentower/nightly/1.5.0-nightly-0d8fc86/firmware-sk-v1.5.0-nightly-0d8fc86.bin"
+  },
+  "en": {
+    "versionName": "1.5.0-nightly-0d8fc86",
+    "versionCode": 1501,
+    "firmwareUrl": "https://lutemi.github.io/ota-update/hentower/nightly/1.5.0-nightly-0d8fc86/firmware-en-v1.5.0-nightly-0d8fc86.bin"
+  }
+}

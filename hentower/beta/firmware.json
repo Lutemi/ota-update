@@ -1,0 +1,17 @@
+{
+  "cs": {
+    "versionName": "1.5.0-beta1",
+    "versionCode": 1501,
+    "firmwareUrl": "https://lutemi.github.io/ota-update/hentower/beta/1.5.0-beta1/firmware-cs-v1.5.0-beta1.bin"
+  },
+  "sk": {
+    "versionName": "1.5.0-beta1",
+    "versionCode": 1501,
+    "firmware_url": "https://lutemi.github.io/ota-update/hentower/beta/1.5.0-beta1/firmware-sk-v1.5.0-beta1.bin"
+  },
+  "en": {
+    "versionName": "1.5.0-beta1",
+    "versionCode": 1501,
+    "firmware_url": "https://lutemi.github.io/ota-update/hentower/beta/1.5.0-beta1/firmware-en-v1.5.0-beta1.bin"
+  }
+}
